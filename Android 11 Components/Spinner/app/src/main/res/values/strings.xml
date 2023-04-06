@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string-array name="countries">
+
+        <item>Manila</item>
+        <item>Laguna</item>
+        <item>Quezon Province</item>
+        <item>Bicol</item>
+        <item>Leyte</item>
+        <item>Davao</item>
+
+    </string-array>
+</resources>
